@@ -1,7 +1,4 @@
 import Foundation
-#if SWIFT_PACKAGE
-import CMapboxDirections
-#endif
 
 
 public typealias AttributeOptions = MBAttributeOptions
